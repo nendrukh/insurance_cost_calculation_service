@@ -1,6 +1,5 @@
 import json
 import traceback
-import threading
 
 from kafka import KafkaProducer
 from kafka.admin import KafkaAdminClient, NewTopic
